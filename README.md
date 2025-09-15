@@ -1,4 +1,4 @@
-# ccithappybirthday.github.com
+# ccithappybirthday.github.io
 
 <!DOCTYPE html>
 <html>
